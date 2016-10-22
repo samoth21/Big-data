@@ -1,5 +1,5 @@
 #suppressPackageStartupMessages(library(googleVis))
-#library(googleVis)
+library(googleVis)
 library(shiny)
 library(datasets)
 library(devtools)
