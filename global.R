@@ -1,6 +1,6 @@
 library(shiny)
 #suppressPackageStartupMessages(library(googleVis))
-#library(googleVis)
+library(googleVis)
 #library(RPostgreSQL)
 require("RPostgreSQL")
 
